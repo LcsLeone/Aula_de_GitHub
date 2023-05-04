@@ -20,5 +20,3 @@ Estou no novo ramo (Branch)
 alteração fieta localmente
 
 alteração feita no GitHub
-
-alteração a ser desfeita
