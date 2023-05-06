@@ -1,9 +1,12 @@
-# Aula de GitHub
+# Aula de GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+          
+          
 __Curso Desenvolvedor Java - Senai 2023__
 
-## Olá me chamo Lucas Leone ;D ## 
+## Olá me chamo Lucas Leone ;D
 
-> Sou militar da FAB, me formei em Ads em 2022 tenho algum conhecimento em programação e quero aperfeiçõar meus conhecimentos. 
+> * Sou militar da __FAB__
+> * Formado em ADS pela UDF em 2022
 
 ### Meu ultimo projeto foi esse
 <a href="https://lcsleone.github.io/projeto-HTML/">Veja aqui</a>
